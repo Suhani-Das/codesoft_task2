@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=egde">
+	<title>myportfolio.com</title>
+<link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+	
+<link rel="stylesheet"  type="text/css" href="Apple.css">
+</head>
+<body>
+<h1 >Welcome to my portfolio !!</h1>
+<nav>
+<div class="topnav">
+<img src="D:\BACKUP\Downloads\plane\s.png" id="logo">
+<a href="#gallery">Gallery</a>
+<a href="#partners">Portfolio</a>
+<a href="#about">About </a>
+<a class="active" href="#home">Home</a>
+</div>
+</nav>
+<section class="image" id="home">
+        <div class="container">
+            <div class="CSS">
+            <div class="title0">
+                <h2 class="title">Hi, it's me Suhani!!</h2>
+                <p class="title2">I am a Front-End web developer</p>
+            </div>
+            </div>
+        </div>
+    </section>
+<section id="about">
+        <div class="container">
+            <h1 class="text-center" style="font-size:60px"><i>About Me</li></h1>
+            <div class="4">
+<div class="maggie">
+                <div class="ab4">
+                    <img src="D:\BACKUP\Downloads\port2.jpg" alt="photo" width="250" height="300">
+                </div>
+
+                <div class="xyz">
+<div class="row">
+                    <p style="font-size:20px"> I am Suhani Das currently pursuing my btech in cse from <b>INSTITUTE OF TECHNICAL EDUCATION AND RESEARCH , SOA UNIVERSITY </b> . As a tech enthusiast and a quick learner i have a good hands on experience on fundamental front end development. I am really looking forward to enhance my skills to obtain a standard qualification to contribute something commendbale in the field of technology and web development. 
+                        
+                    </p>
+                    <div class="abc">
+                        <div class="bcd">
+                            <ul class="soup"><b>
+                                <li>Name: Suhani Das</li>
+                                <li>Institute: ITER</li>
+                                 <li>Branch:CSE</li>
+</b>
+                            </ul>
+                        </div>
+                    </div>
+</div>
+                    <div class="efg">
+                        <p style="font-size:20px" "text-align:right"> To have been bestowed by this wonderful oppurtunity to work as an intern in CODSOFT has provided me a perfect platform to exercise my skills to develop my creativity in web designing and dynamic web development. 
+                        </p>
+</div>
+                    </div>
+                </div>
+            </div>
+    </section>
+<div class="skills">
+<h1>My Skills & Education</h1>
+<h2><u>Skills:</u></h2>
+<button id="b1">DSA</button>
+<button id="b2">Java Core</button>
+<button id="b3">HTML5</button>
+<button id="b4">Sketching</button>
+<button id="b5">CSS</button>
+<h2><u>Education:</u></h2>
+<ul class="soup"><b>
+<li>10<sup>th</sup> Boards:ST. Mary's Convent School<li><br>
+<li>12<sup>th</sup>Boards:Sri Satyasai Vidya Vihar<li><br>
+<li>B.tech : ITER</li>
+</b>
+<ul>
+</div>
+<div id="Projects">
+        <div class="container">
+            <h1 class="pro"> Projects</h1>
+            <div class="projectscom">
+                <div class="a1">
+                    <h2><b><q> Portfolio Page</q></b></h2>
+                    <p> In this task i have used the basic concepts of html  and css to create a self customized portfolio page .
+</p>
+                    <a href="myportfolio.html">Portfolio Page</a>
+                </div>
+
+                <div class="a2">
+                    <h2><b><q> Landing Page</q></b></h2>
+                    <p> In this task i have used the basic concepts of html and css to create a self customized landing page.
+</p>
+                    <a href="HTML.html">Landing Page</a>
+                </div>
+                <div class="a3">
+                    <h2><b><q>Calculator</q></b></h2>
+                    <p> In this task i have used the basic concepts of html css and javascript to make a functional simple calculator.
+</p>
+                    <a href="calculator.html">Calculator</a>
+                </div>
+            </div>
+        </div>
+
+<div class="resume">
+<h1>Resume</h1>
+<p>!!--click here to download--!!</p>
+<button id="Resume"><a href="resume.html">RESUME</a></button>
+</div>
+<hr>
+<!--Contact Section-->
+    <div id="contactme">
+        <div class="contact"><h3>Contact Me:</h3>
+        <p id="cm"><i class="ri-mail-line"></i> suhanid931@gmail.com</p>
+    <p id="cm">
+        <i class="ri-customer-service-line"></i>789499XXXX
+    </p>
+<div class="social">
+    <a href="#"><i class="ri-facebook-box-line"></i></a>
+    <a href="#"><i class="ri-twitter-x-line"></i></a>
+    <a href="#"><i class="ri-instagram-line"></i></a>
+    <a href="#"><i class="ri-linkedin-box-line"></i></a>
+</div></div>
+    </div>
+<footer>
+<div>
+Copyright & copy ; myPortfolio.com | All Rights Reserved | For more Information
+<br>
+</footer>
+</body>
+</html>
